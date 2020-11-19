@@ -1,0 +1,1 @@
+# tartufo-gd-exclusions
